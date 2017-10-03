@@ -1,0 +1,14 @@
+{
+  "name": "express-warmup",
+  "version": "1.0.0",
+  "description": "Warmup for express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geralle Estes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
